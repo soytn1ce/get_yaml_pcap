@@ -1,0 +1,6 @@
+# get_yaml_pcap
+根据yaml配置自动发包抓包的工具
+
+先开启get_pcap再使用get_attack
+脚本会默认打yaml里所有的流，目前针对fscan
+避免Poc因前置不满足而没有打出Poc的流
